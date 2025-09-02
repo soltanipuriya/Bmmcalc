@@ -1,6 +1,6 @@
 {
   "platform": "python",
-  "app": "streamlit run main.py --server.port $PORT --server.address 0.0.0.0",
+  "app": "streamlit run main.py --server.port 8000 --server.address 0.0.0.0",
   "python": {
     "version": "3.10"
   }
